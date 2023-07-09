@@ -2,7 +2,7 @@
 layout: page
 title: 加拿大种菜
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
